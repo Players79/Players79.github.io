@@ -1,0 +1,28 @@
+.btn {
+    background-color: skyBlue;
+}
+
+.btn:hover {
+    background-color: lightBlue;
+}
+
+.btn:active {
+    background-color: aqua;
+}
+
+body {
+    text-align:center;
+    background-color: #F1E1FF;
+}
+
+img {
+    border-style: outset;
+    border-color: green;
+    max-width: 100%;
+    height: auto;
+}
+
+.blank {
+    border-style:none;
+    border-color: #F1E1FF;
+}
